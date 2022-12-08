@@ -16,49 +16,29 @@ pec20006@byui.edu · www.linkedin.com/in/David-H-Peck · 385.314.2483
 
 ## Education
 
-`2025-2027`
-**LDS Business College**, Salt Lake City, UT
+`2020-2023`
+**Brigham Young University - Idaho**, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Full academic scholarship with 3.97 GPA
 
-`Expected 2029`
+`Graduation 2023`
 **Brigham Young University - Idaho**, Rexburg, ID
 
 - 4.0 Major GPA
 
 ## Related Experience
 
-### Internships
+**ABM**
+`May 2022 - Present`
 
-`January 2028 - June 2028`
-**Pacific Northwest National Lab**, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-**Westmark Credit Union**, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging.
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-**Good2Go**, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work
+ - Used Power BI to create dashborads
 
 ### Data Science Society
 
 `Jan 2022 - Apr 2022`
 **RBDC Consultant for Madison Memorial Hospital**
 
--
+- Used Excel Pivot tables to provide insights
 
 ## Service and Work History
 
